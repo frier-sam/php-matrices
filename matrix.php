@@ -103,8 +103,8 @@
 		return($arr3);
 	}
 //test	
-$arr1 = array(array(1,2),array(5,2));
-$arr2 = array(array(2,2),array(3,2));
-var_dump(multiply($arr1,$arr2));	
+//$arr1 = array(array(1,2),array(5,2));
+//$arr2 = array(array(2,2),array(3,2));
+//var_dump(multiply($arr1,$arr2));	
 		
 ?>
