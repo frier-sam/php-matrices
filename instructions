@@ -1,0 +1,7 @@
+Include the library and you can use following fuctions
+
+if $t1 and $t2 are 2 matrices then
+
+$multiplie = multiply($t1,$t2);
+$added = add($t1,$t2);
+$subtracted = sub($t1,$t2);
